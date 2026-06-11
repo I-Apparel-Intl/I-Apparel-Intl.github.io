@@ -7,11 +7,12 @@ const config: Config = {
   tagline: 'Dinosaurs are cool',
   favicon: 'img/in.png',
 
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://I-Apparel-Intl.github.io',
   baseUrl: '/',
 
-  organizationName: 'facebook',
-  projectName: 'docusaurus',
+  organizationName: 'I-Apparel-Intl',
+  projectName: 'I-Apparel-Intl.github.io',
+  trailingSlash: false,
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -151,7 +152,7 @@ const config: Config = {
             { label: 'Install',  to: '/install/quick-start' },
           ],
         },
-   
+
         {
           title: 'Download',
           items: [
@@ -160,7 +161,6 @@ const config: Config = {
           ],
         },
       ],
-    
     },
 
     prism: {
