@@ -1,0 +1,130 @@
+/* =============================================
+   Component Checklist — Custom Color Theme
+   Amber (main) · Purple (headings) · Teal (accents)
+   ============================================= */
+
+/* ── Page title ── */
+.theme-doc-markdown h1 {
+  color: #854F0B;
+  border-bottom: 3px solid #EF9F27;
+  padding-bottom: 0.4rem;
+}
+
+/* ── Section headings (##) ── */
+.theme-doc-markdown h2 {
+  color: #534AB7;
+  border-left: 4px solid #7F77DD;
+  padding-left: 0.75rem;
+  border-radius: 0;
+}
+
+/* ── Sub-headings (###) ── */
+.theme-doc-markdown h3 {
+  color: #3C3489;
+}
+
+/* ── Step number badges in h3 ── */
+.theme-doc-markdown h3 .step-badge,
+.theme-doc-markdown h3 {
+  font-size: 1rem;
+}
+
+/* ── Tables: header row ── */
+.theme-doc-markdown table thead tr {
+  background-color: #412402;
+}
+
+.theme-doc-markdown table thead tr th {
+  color: #FAEEDA;
+  font-weight: 600;
+}
+
+/* ── Tables: alternating rows ── */
+.theme-doc-markdown table tbody tr:nth-child(odd) {
+  background-color: #FAEEDA;
+}
+
+.theme-doc-markdown table tbody tr:nth-child(even) {
+  background-color: #fff;
+}
+
+/* ── Tables: border ── */
+.theme-doc-markdown table {
+  border: 1px solid #EF9F27;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.theme-doc-markdown table td,
+.theme-doc-markdown table th {
+  border-color: #FAC775;
+}
+
+/* ── Blockquotes (> notes) ── */
+.theme-doc-markdown blockquote {
+  border-left: 4px solid #1D9E75;
+  background-color: #E1F5EE;
+  color: #085041;
+  border-radius: 0 6px 6px 0;
+  padding: 0.6rem 1rem;
+}
+
+/* ── Admonition: tip → Teal ── */
+.alert--success,
+div[class*="admonitionType_tip"] {
+  --ifm-alert-background-color: #E1F5EE;
+  --ifm-alert-border-color: #1D9E75;
+  --ifm-alert-color: #085041;
+}
+
+/* ── Admonition: warning → Amber ── */
+.alert--warning,
+div[class*="admonitionType_warning"] {
+  --ifm-alert-background-color: #FAEEDA;
+  --ifm-alert-border-color: #BA7517;
+  --ifm-alert-color: #412402;
+}
+
+/* ── Admonition: note → Purple ── */
+.alert--secondary,
+div[class*="admonitionType_note"] {
+  --ifm-alert-background-color: #EEEDFE;
+  --ifm-alert-border-color: #7F77DD;
+  --ifm-alert-color: #26215C;
+}
+
+/* ── Inline code ── */
+.theme-doc-markdown code {
+  background-color: #FAEEDA;
+  color: #633806;
+  border: 1px solid #FAC775;
+  border-radius: 4px;
+  padding: 1px 5px;
+}
+
+/* ── Horizontal rules ── */
+.theme-doc-markdown hr {
+  border-color: #EF9F27;
+  opacity: 0.4;
+}
+
+/* ── Bold text ── */
+.theme-doc-markdown strong {
+  color: #3C3489;
+}
+
+/* ── Sidebar active item ── */
+.menu__link--active {
+  color: #854F0B !important;
+  border-left: 3px solid #EF9F27;
+  font-weight: 600;
+}
+
+/* ── Pagination / prev-next buttons ── */
+.pagination-nav__link {
+  border-color: #7F77DD;
+}
+
+.pagination-nav__link:hover {
+  background-color: #EEEDFE;
+}

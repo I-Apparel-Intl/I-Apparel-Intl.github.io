@@ -1,0 +1,78 @@
+{
+  "sidebar.tutorialSidebar.doc.📖 Introduction": {
+    "message": "📖 សេចក្តីណែនាំ",
+    "description": "The label for the doc item 📖 Introduction in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.doc.⚡ Install": {
+    "message": "⚡ ដំឡើង",
+    "description": "The label for the doc item ⚡ Install in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.doc.🔐 Login": {
+    "message": "🔐 ការចូលប្រើប្រាស់",
+    "description": "The label for the doc item 🔐 Login in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.doc.🏠 Home Page": {
+    "message": "🏠 ទំព័រដើម",
+    "description": "The label for the doc item 🏠 Home Page in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.doc.📊 WIP Data Collection": {
+    "message": "📊 ការប្រមូលទិន្នន័យ WIP",
+    "description": "The label for the doc item WIP Data Collection in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.doc.♻️ WIP Recovery / Dispose": {
+    "message": "♻️ ការដំណើរការឡើងវិញ / លុបចោល",
+    "description": "The label for the doc item WIP Recovery Dispose in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.🏭 WIP Operation": {
+    "message": "🏭 ប្រតិបត្តិការ WIP",
+    "description": "The label for the category WIP Operation in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.doc.🏭 Overview": {
+    "message": "🏭 សង្ខេប",
+    "description": "The label for the WIP Operation overview doc"
+  },
+  "sidebar.tutorialSidebar.doc.🧵 Sewing Offline": {
+    "message": "🧵 ដេរ Offline",
+    "description": "The label for Sewing Offline in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.doc.🌐 Sewing Online": {
+    "message": "🌐 ដេរ Online",
+    "description": "The label for Sewing Online in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.doc.📦 Packing": {
+    "message": "📦 ការវេចខ្ចប់",
+    "description": "The label for Packing in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.doc.⏱️ WIP Hourly Output": {
+    "message": "⏱️ ផលិតផលប្រចាំម៉ោង WIP",
+    "description": "The label for the doc item WIP Hourly Output in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.🎫 WIP Ticket Tracking": {
+    "message": "🎫 តាមដានសំបុត្រ WIP",
+    "description": "The label for the category WIP Ticket Tracking in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.doc.🎫 Overview": {
+    "message": "🎫 សង្ខេប",
+    "description": "The label for the WIP Ticket Tracking overview doc"
+  },
+  "sidebar.tutorialSidebar.doc.☑️ Component Checklist": {
+    "message": "☑️ បញ្ជីត្រួតពិនិត្យ",
+    "description": "The label for Component Checklist in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.doc.🔲 QR Traceability": {
+    "message": "🔲 ការតាមដាន QR",
+    "description": "The label for QR Traceability in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.🛡️ QMS Features": {
+    "message": "🛡️ លក្ខណៈពិសេស QMS",
+    "description": "The label for the category QMS Features in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.doc.🔍 Finishing Measurement": {
+    "message": "🔍 ការវាស់វែងចប់សព្វ",
+    "description": "The label for Finishing Measurement in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.doc.🧺 After Wash Measurement": {
+    "message": "🧺 ការវាស់វែងក្រោយបោកគក់",
+    "description": "The label for After Wash Measurement in sidebar tutorialSidebar"
+  }
+}

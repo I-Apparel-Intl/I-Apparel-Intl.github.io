@@ -1,0 +1,42 @@
+{
+  "homepage.button.start": {
+    "message": "ចាប់ផ្តើម ⏱️",
+    "description": "Homepage start button"
+  },
+  "homepage.card1.title": {
+    "message": "ឯកសារ",
+    "description": "Card 1 title"
+  },
+  "homepage.card1.description": {
+    "message": "រៀនពីរបៀបប្រើប្រាស់ Docusaurus ដើម្បីបង្កើតគេហទំព័រឯកសាររបស់អ្នក យ៉ាងលឿន និងងាយស្រួល។",
+    "description": "Card 1 description"
+  },
+  "homepage.card1.link": {
+    "message": "អានបន្ថែម →",
+    "description": "Card 1 link"
+  },
+  "homepage.card2.title": {
+    "message": "ពហុភាសា",
+    "description": "Card 2 title"
+  },
+  "homepage.card2.description": {
+    "message": "គេហទំព័រនេះគាំទ្រភាសាខ្មែរ និងភាសាអង់គ្លេស ដើម្បីឱ្យអ្នកអានយល់បានកាន់តែច្បាស់។",
+    "description": "Card 2 description"
+  },
+  "homepage.card2.link": {
+    "message": "ស្វែងយល់ →",
+    "description": "Card 2 link"
+  },
+  "homepage.card3.title": {
+    "message": "ងាយស្រួលដំឡើង",
+    "description": "Card 3 title"
+  },
+  "homepage.card3.description": {
+    "message": "គ្រាន់តែពីរបីជំហានប៉ុណ្ណោះ អ្នកអាចដំឡើង និងដាក់ឱ្យដំណើរការ គេហទំព័ររបស់អ្នកបានភ្លាមៗ។",
+    "description": "Card 3 description"
+  },
+  "homepage.card3.link": {
+    "message": "ដំឡើងឥឡូវ →",
+    "description": "Card 3 link"
+  }
+}

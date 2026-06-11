@@ -1,0 +1,26 @@
+{
+  "sidebar.tutorialSidebar.doc.Introduction": {
+    "message": "📖 សេចក្តីណែនាំ",
+    "description": "Introduction sidebar item"
+  },
+  "sidebar.tutorialSidebar.doc.Install": {
+    "message": "⚡ ដំឡើង",
+    "description": "Install sidebar item"
+  },
+  "sidebar.tutorialSidebar.category.Login": {
+    "message": "🔐 ការចូលប្រើប្រាស់",
+    "description": "Login category"
+  },
+  "sidebar.tutorialSidebar.doc.HowToLogin": {
+    "message": "→ របៀបចូលប្រើប្រាស់",
+    "description": "How to Login sidebar item"
+  },
+  "sidebar.tutorialSidebar.doc.ForgotPassword": {
+    "message": "→ ភ្លេចពាក្យសម្ងាត់",
+    "description": "Forgot Password sidebar item"
+  },
+  "sidebar.tutorialSidebar.doc.Troubleshooting": {
+    "message": "→ ការដោះស្រាយបញ្ហា",
+    "description": "Troubleshooting sidebar item"
+  }
+}

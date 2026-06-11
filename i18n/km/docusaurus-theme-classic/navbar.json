@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "គេហទំព័ររបស់ខ្ញុំ",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "រូបសញ្ញាគេហទំព័រ",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Tutorial": {
+    "message": "ការណែនាំ",
+    "description": "Navbar item with label Tutorial"
+  },
+  "item.label.Blog": {
+    "message": "ប្លុក",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
