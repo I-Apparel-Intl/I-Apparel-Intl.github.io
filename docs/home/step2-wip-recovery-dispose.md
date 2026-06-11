@@ -15,7 +15,7 @@ title: Step 2 — WIP Recovery / Dispose
 
 ---
 
-## 📋 Description
+## 📋 Descriptions
 
 This feature is used to handle defective or leftover WIP items — either recover them back into production or mark them for disposal.
 
