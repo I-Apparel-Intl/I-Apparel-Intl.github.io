@@ -413,7 +413,7 @@ body,
   font-weight: 700 !important;
   letter-spacing: 0.07em !important;
   text-transform: uppercase !important;
-  color: var(--ifm-color-emphasis-600) !important;
+color: #000000 !important;
   padding: 10px 10px 4px !important;
   border-left: none !important;
   background: transparent !important;
